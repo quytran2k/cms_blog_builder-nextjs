@@ -1,7 +1,7 @@
-import { ModeToggle } from "@/components/ui/toggle-theme";
+import SignupForm from "../_components/signup-form";
 
 const AuthSignUp = () => {
-  return <ModeToggle />;
+  return <SignupForm />;
 };
 
 export default AuthSignUp;
